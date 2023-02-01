@@ -30,7 +30,7 @@ Android Kotlin Boilerplate refers to standardized methods, procedures and files 
 ## Installation  
 Clone this repository and import it into **Android Studio**  
 ```bash  
-git clone https://github.com/celerik/android-kotlin-boilerplate.git  
+git clone https://github.com/expressodaily/Kotlin-Boilerplate.git  
 ```  
   
 ## Build variants  
